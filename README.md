@@ -23,6 +23,7 @@ Scripting: JavaScript (ES6+) for dynamic UI updates and logic
 Deployment: GitHub Pages
 
 📂 Project Structure
+```
 Plaintext
 S.L.P/
 ├── css/             # Stylesheets for layout and components
@@ -31,7 +32,8 @@ S.L.P/
 ├── index.html       # Landing page
 ├── workout.html     # Main workout interface
 └── [other modules]  # Goal, History, Login, and Summary pages
-🧠 Future Enhancements (AI Integration)
+```
+🧠 **Future Enhancements (AI Integration)**
 As part of my interest in AI/ML and Agentic AI, I plan to integrate:
 
 AI Workout Assistant: A generative AI feature to provide personalized exercise routines based on historical data.
@@ -39,4 +41,4 @@ AI Workout Assistant: A generative AI feature to provide personalized exercise r
 Smart Goal Analysis: Using ML models to predict user milestones and provide motivational insights.
 
 🤝 Contributing
-Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues] (https://github.com/ommp-sahu/S.L.P/issues) page.
