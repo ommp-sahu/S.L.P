@@ -41,4 +41,4 @@ AI Workout Assistant: A generative AI feature to provide personalized exercise r
 Smart Goal Analysis: Using ML models to predict user milestones and provide motivational insights.
 
 🤝 Contributing
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues] (https://github.com/ommp-sahu/S.L.P/issues) page.
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues](https://github.com/ommp-sahu/S.L.P/issues) page.
