@@ -24,7 +24,6 @@ Deployment: GitHub Pages
 
 📂 Project Structure
 ```
-Plaintext
 S.L.P/
 ├── css/             # Stylesheets for layout and components
 ├── js/              # Functional logic and event handling
